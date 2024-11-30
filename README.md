@@ -1,13 +1,18 @@
-# 6530250018 
+<h1 align="center">6530250018</h1>
 
-- Krittiphon Yoonaitham
-  - Moss
+
 
 <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5635AQHF9lM2l7ihrw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1731885429378?e=1733551200&v=beta&t=2weJtPMRYOTWu8I9Gd-k3fE0IOGvzxIVGYsXpMZmoa4" width="500"/>
 </div>
 
 <h1 align="center">Profile</h1>
+<h2 align="center">
+  - Krittiphon Yoonaitham
+  <br />
+  - Moss
+</h2>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/krittiphon-yoonaitham-a291482b1/?originalSubdomain=th">
