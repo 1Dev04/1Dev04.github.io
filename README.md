@@ -48,3 +48,7 @@ Currently pursuing a Bachelor of Computer Science at Kasetsart University, Srira
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1Dev04&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Dev04&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Dev04&show_icons=true&theme=chartreuse-dark)
+
+---
+[Asset Page]()
+[ไปยังเพจของเพื่อน](https://6530250158.github.io/)
