@@ -51,5 +51,6 @@ Currently pursuing a Bachelor of Computer Science at Kasetsart University, Srira
 
 ---
 [Asset [1] Page]()
+<br />
 [ไปยังเพจของเพื่อน](https://6530250158.github.io/)
 
