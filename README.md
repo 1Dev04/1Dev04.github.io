@@ -1,10 +1,10 @@
-
+<h1 align="center">Profile</h1>
 
 <div id="header" align="center">
   <img src="img/person.jpg" width="500"/>
 </div>
 
-<h1 align="center">Profile</h1>
+
 <h2 align="center">
   - Kasetsart University Sriracha Campus
   <br />
