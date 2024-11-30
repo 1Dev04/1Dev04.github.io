@@ -50,5 +50,6 @@ Currently pursuing a Bachelor of Computer Science at Kasetsart University, Srira
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Dev04&show_icons=true&theme=chartreuse-dark)
 
 ---
-[Asset Page]()
+[Asset [1] Page]()
 [ไปยังเพจของเพื่อน](https://6530250158.github.io/)
+
