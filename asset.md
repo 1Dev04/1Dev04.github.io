@@ -1,8 +1,10 @@
 ># Asset
 
-### CISSP Glossary (https://www.isc2.org/certifications/cissp/cissp-student-glossary) An item perceived as having value.
+### CISSP Glossary (https://www.isc2.org/certifications/cissp/cissp-student-glossary) 
 
 ---
+
+An item perceived as having value.
 
 - ChatGPT
   - สิ่งของหรือรายการที่ถูกมองว่ามีมูลค่า
@@ -10,9 +12,11 @@
   - สิ่งของที่ถูกมองว่ามีคุณค่า
 
 
-### NIST (https://csrc.nist.gov/glossary/term/asset) A major application, general support system, high impact program, physical plant, mission critical system, personnel, equipment, or a logically related group of systems
+### NIST (https://csrc.nist.gov/glossary/term/asset)
 
 ---
+
+A major application, general support system, high impact program, physical plant, mission critical system, personnel, equipment, or a logically related group of systems
 
 - ChatGPT
   - ระบบสนับสนุนทั่วไป โปรแกรมที่มีผลกระทบสูง โรงงาน อาคารสถานที่ ระบบสำคัญต่อภารกิจ บุคลากร อุปกรณ์ หรือกลุ่มของระบบที่มีความเกี่ยวข้องกัน
