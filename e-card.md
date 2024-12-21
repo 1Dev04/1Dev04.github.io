@@ -1,1 +1,1 @@
-![pageChirstmas](img/Christmasm.jpg)
+![pageChirstmas](img/Christmasm.png)
