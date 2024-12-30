@@ -21,5 +21,6 @@ Currently pursuing a Bachelor of Computer Science at Kasetsart University, Srira
 ---
 - [Asset Page](asset.md)
 - [Christmas Page](e-card.md)
+- [Data Quality Page](data-quality.md)
 - [Readme Page ของเพื่อน](https://6530250158.github.io/)
 
