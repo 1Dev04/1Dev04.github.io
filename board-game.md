@@ -24,7 +24,7 @@
 ## ภาพกิจกรรม
 ![GamePlay1](/img/IMG_0008.jpeg)
 ![GamePlay2](/img/IMG_0009.jpeg)
-![Group_photo](/img/IMG_0010.jpeg)
+![Group_photo](/img/BoardGame_Group_photo.jpeg)
 
 ## วิดีโอกิจกรรม
 [![Cyber Board Game](/img/IMG_0011.jpeg)](https://youtu.be/dNZV-51a_OU "Cyber Board Game")
