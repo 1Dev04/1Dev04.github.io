@@ -2,7 +2,7 @@
  
 ![secur1](/img/secur1.png)
 
-#### Location: หอใน หน้าห้องที่หอพัก
+#### Location: หน้าห้องที่หอพัก
 #### Closed-Circuit Television (CCTV) หรือกล้องวงจรปิด: ระบบเฝ้าระวังที่บันทึกและส่งภาพไปยังจอแสดงผลหรืออุปกรณ์บันทึก โดยไม่เผยแพร่สู่สาธารณะ
 #### ประเภทของ Securtity control
   - Type of Security Control: Physical Control
