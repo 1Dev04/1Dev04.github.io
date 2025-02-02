@@ -23,7 +23,7 @@ Currently pursuing a Bachelor of Computer Science at Kasetsart University, Srira
 - [Christmas Page](e-card.md)
 - [Data Quality Page](accuracy.md)
 - [Board Game Page](board-game.md)
-- [security control]()
-- [pao elections]()
+- [security control](security-control.md)
+- [pao elections](pao-elections.md)
 - [Readme Page ของเพื่อน](https://6530250158.github.io/)
 
